@@ -1,3 +1,3 @@
-module TinyMysql
-  VERSION = "0.1.0"
+class TinyMysql
+  VERSION = '0.1.0'
 end
