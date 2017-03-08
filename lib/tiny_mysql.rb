@@ -1,4 +1,5 @@
 require 'tiny_mysql/version'
+require 'open3'
 
 class TinyMysql
   attr_reader :mysql_command
