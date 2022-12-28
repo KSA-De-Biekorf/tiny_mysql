@@ -1,4 +1,4 @@
-require 'tiny_mysql/version'
+require_relative './tiny_mysql/version'
 require 'open3'
 
 class TinyMysql
